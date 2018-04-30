@@ -1,0 +1,521 @@
+Stat Connecté.
+Envoyé 17/03/2006 00:44:56: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 138<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:44:56: info1=&temp=0%2E0&vent=0&girou=N&pression=0&humidite=0&sujet=insert&table=74stationtest1&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:44:56: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:44:51 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:44:57: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:44:57: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:44:58: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:44:53 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:44:59: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:44:59: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:44:59: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:44:54 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:01: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:01: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:01: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:44:56 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:03: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:03: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:03: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:44:58 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:04: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:04: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:04: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:00 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:06: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:06: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:06: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:01 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:08: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:08: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:08: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:03 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:10: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:10: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:10: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:05 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:11: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:11: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:12: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:07 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:13: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:13: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:13: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:08 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:15: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:15: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:15: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:10 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:17: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:17: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:17: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:12 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:18: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:18: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:18: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:14 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:20: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:20: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:20: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:15 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:22: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:22: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:22: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:17 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:23: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:23: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:24: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:19 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:25: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:25: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:25: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:20 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:27: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:27: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:27: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:22 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:29: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:29: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:29: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:24 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:30: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:30: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:31: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:26 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:32: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:32: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:32: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:27 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:34: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:34: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:34: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:29 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:36: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:36: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:36: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:31 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:37: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:37: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:38: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:33 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:39: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:39: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:39: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:34 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:41: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:41: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:41: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:36 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:43: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:43: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:43: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:38 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:44: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:44: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:44: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:40 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:46: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:46: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:46: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:41 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:48: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:48: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:48: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:43 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:49: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:49: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:50: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:45 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:51: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:51: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:51: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:46 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:53: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:53: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:53: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:48 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:55: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:55: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:55: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:50 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:56: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:56: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:57: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:52 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:45:58: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:45:58: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:45:58: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:53 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:00: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:00: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:00: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:55 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:02: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:02: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:02: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:57 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:03: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:03: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:03: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:45:59 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:05: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:05: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:05: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:00 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:07: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:07: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:07: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:02 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:08: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:08: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:09: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:04 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:10: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:10: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:10: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:05 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:12: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:12: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:12: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:07 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:14: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:14: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:14: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:09 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:15: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:15: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:16: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:11 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:17: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:17: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:17: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:12 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:19: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:19: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:19: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:14 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:21: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:21: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:21: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:16 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:23: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:23: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:23: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:18 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:24: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:24: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:25: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:20 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:26: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:26: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:26: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:21 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:28: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:28: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:28: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:23 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:30: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:30: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:30: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:25 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:31: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:31: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:31: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:27 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:33: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:33: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:33: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:28 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:35: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:35: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:35: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:30 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:36: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:36: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:37: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:32 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:38: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:38: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:38: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:33 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:40: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:40: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:40: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:35 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:42: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:42: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:42: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:37 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:43: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:43: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:44: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:39 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:45: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:45: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:45: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:40 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:47: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:47: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:47: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:42 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:49: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:49: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:49: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:44 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:50: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:50: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:51: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:46 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:52: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:52: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:52: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:47 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:54: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:54: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:54: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:49 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:56: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:56: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:56: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:51 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:57: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:57: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:57: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:53 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:46:59: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:46:59: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:46:59: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:54 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:01: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:01: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:01: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:56 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:03: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:03: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:03: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:46:58 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:05: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:05: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:05: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:00 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:06: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:06: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:06: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:02 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:08: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:08: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:08: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:03 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:10: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:10: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:10: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:05 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:11: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:11: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:12: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:07 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:13: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:13: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:13: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:08 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:15: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:15: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:15: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:10 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:17: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:17: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:17: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:12 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:18: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:18: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:19: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:14 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:20: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:20: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:20: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:15 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 00:47:22: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: text/html<EOL>Content-Length: 107<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 00:47:22: sujet=test&champ=etat&valeur=occupe&table=74stationtest1b&passdelphi=D0F2f7tyR2Es7k6z5y9c3s4q&Submit=Submit
+Reçu 17/03/2006 00:47:22: HTTP/1.1 200 OK<EOL>Date: Thu, 16 Mar 2006 23:47:17 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 20:56:55: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: application/x-www-form-urlencoded<EOL>Content-Length: 149<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 20:56:55: info1=temp%3D0%252E0vent%3D0girou%3DNpression%3D0humidite%3D0sujet%3Dinserttable%3D74stationtest1passdelphi%3DD0F2f7tyR2Es7k6z5y9c3s4qSubmit%3DSubmit
+Reçu 17/03/2006 20:56:55: HTTP/1.1 200 OK<EOL>Date: Fri, 17 Mar 2006 19:56:50 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
+Stat Déconnecté.
+Stat Connecté.
+Envoyé 17/03/2006 20:58:41: POST /postquery.php HTTP/1.0<EOL>Connection: keep-alive<EOL>Content-Type: application/x-www-form-urlencoded<EOL>Content-Length: 112<EOL>Host: stationisp.free.fr<EOL>Accept: text/html, */*<EOL>User-Agent: Mozilla/3.0 (compatible; Indy Library)<EOL><EOL>
+Envoyé 17/03/2006 20:58:41: sujet=testchamp%3Detatvaleur%3Doccupetable%3D74stationtest1bpassdelphi%3DD0F2f7tyR2Es7k6z5y9c3s4qSubmit%3DSubmit
+Reçu 17/03/2006 20:58:41: HTTP/1.1 200 OK<EOL>Date: Fri, 17 Mar 2006 19:58:36 GMT<EOL>Server: Apache/ProXad [Jan 16 2006 02:48:10]<EOL>X-Powered-By: PHP/4.3.10<EOL>Connection: close<EOL>Content-Type: text/html<EOL><EOL>missing params!
+Stat Déconnecté.
